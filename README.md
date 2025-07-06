@@ -4,7 +4,7 @@
 - 🌱 I’m looking to collaborate on any advance analytics project that would allow me to complement my skills in data science and computer science.
 - 📫 How to reach me:
   -  [`LinkedIn`](https://www.linkedin.com/in/niccol%C3%B2-silicani-918680159/)
-  -  [`niccolo.silicani@gmail.com`](mailto:niccolo.silicani@proton.me)
+  -  [`niccolo.silicani@proton.me`](mailto:niccolo.silicani@proton.me)
 
 <!---
 nsilicani/nsilicani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
