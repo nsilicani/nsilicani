@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsilicani, a data scientist with financial background working @Bip xTech.
+- 👋 Hi, I’m @nsilicani, a data scientist working at EssilorLuxottica.
 - 🤓 I’m dedicated to discovering innovative applications of statistical models in the financial sector. 
 - 👀 I genuinely believe AI and ML are fundamentally advanced statistical methods, empowered by computational resources.
 - 🌱 I’m looking to collaborate on any advance analytics project that would allow me to complement my skills in data science and computer science.
