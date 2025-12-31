@@ -3,6 +3,7 @@
 - 👀 I genuinely believe AI and ML are fundamentally advanced statistical methods, empowered by computational resources.
 - 🌱 I’m looking to collaborate on any advance analytics project that would allow me to complement my skills in data science and computer science.
 - 📫 How to reach me:
+  -  [`Personal Blog`](https://niccolosilicani.wordpress.com/)
   -  [`LinkedIn`](https://www.linkedin.com/in/niccol%C3%B2-silicani-918680159/)
   -  [`niccolo.silicani@proton.me`](mailto:niccolo.silicani@proton.me)
 
