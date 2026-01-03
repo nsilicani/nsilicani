@@ -2,8 +2,8 @@
 - 🤓 I’m dedicated to discovering innovative applications of statistical models in the financial sector. 
 - 👀 I genuinely believe AI and ML are fundamentally advanced statistical methods, empowered by computational resources.
 - 🌱 I’m looking to collaborate on any advance analytics project that would allow me to complement my skills in data science and computer science.
+- Personal Blog: [`Why is ice sleppery?`](https://niccolosilicani.wordpress.com/)
 - 📫 How to reach me:
-  -  [`Why is ice sleppery?`](https://niccolosilicani.wordpress.com/)
   -  [`LinkedIn`](https://www.linkedin.com/in/niccol%C3%B2-silicani-918680159/)
   -  [`niccolo.silicani@proton.me`](mailto:niccolo.silicani@proton.me)
 
